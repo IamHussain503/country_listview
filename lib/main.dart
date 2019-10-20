@@ -43,7 +43,7 @@ class _MyAppState extends State<MyApp> {
               onPressed: () => print('Answer2 chosen'),
             ),
             RaisedButton(
-              child: Text('Answer 3'),
+              child: Text('Answer 4'),
               onPressed: () {
                 // ... your code here
                 print('Answer 3 chosen');
